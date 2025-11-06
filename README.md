@@ -7,7 +7,7 @@ This project turns football recruitment into an optimization problem using mathe
 
 ---
 
-## 📂 Project Overview
+## Project Overview
 
 Football clubs don’t just buy “good players.” They operate under:
 
